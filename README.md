@@ -1,2 +1,2 @@
-# repo_terminal
-Welcome
+# Welcome
+This is a text file
